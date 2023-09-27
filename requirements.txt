@@ -1,0 +1,13 @@
+colorama
+keyboard
+requests
+wifi
+bs4
+pystyle
+sellix
+urllib3
+selenium
+discord
+requests
+keyboard
+pypresence
